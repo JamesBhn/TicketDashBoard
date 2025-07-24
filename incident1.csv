@@ -1,0 +1,98 @@
+number,opened_at,short_description,caller_id,priority,state,category,assignment_group,assigned_to,sys_updated_on,sys_updated_by
+INC0057044,3/17/2025 6:04,null,Alex,3 - Moderate,Closed,Software,1group,Alex,3/22/2025 7:00,system
+INC0057045,3/17/2025 13:49,null,Alex,3 - Moderate,Closed,AHP (sponsor),1group,Alex,3/22/2025 10:00,system
+INC0057046,3/17/2025 21:33,null,Alex,3 - Moderate,Closed,Software,1group,Alex,3/22/2025 13:00,system
+INC0057047,3/18/2025 5:18,null,Alex,3 - Moderate,Closed,Software,1group,Alex,3/22/2025 16:00,system
+INC0057048,3/18/2025 13:02,null,Alex,3 - Moderate,Closed,Inquiry / Help,1group,Alex,3/22/2025 19:00,system
+INC0057049,3/18/2025 20:47,null,Alex,3 - Moderate,Resolved,Inquiry / Help,1group,Alex,3/22/2025 22:00,system
+INC0057050,3/19/2025 4:31,null,Alex,3 - Moderate,Closed,Software,1group,Jack,3/23/2025 1:00,system
+INC0057051,3/19/2025 12:16,null,Alex,3 - Moderate,Closed,AHP (sponsor),1group,Jack,3/23/2025 4:00,system
+INC0057052,3/19/2025 20:00,null,Alex,4 - Low,Resolved,Software,1group,Jack,3/23/2025 7:00,system
+INC0057053,3/20/2025 3:45,null,Alex,4 - Low,Closed,Software,1group,Jack,3/23/2025 10:00,system
+INC0057054,3/20/2025 11:29,null,Alex,4 - Low,Closed,Inquiry / Help,1group,Jack,3/23/2025 13:00,system
+INC0057055,3/20/2025 19:14,null,Alex,4 - Low,Closed,Inquiry / Help,1group,Kim,3/23/2025 16:00,system
+INC0057056,3/21/2025 2:58,null,Alex,4 - Low,Closed,Software,1group,Jack,3/23/2025 19:00,system
+INC0057057,3/21/2025 10:43,null,Alex,4 - Low,Resolved,AHP (sponsor),1group,Jack,3/23/2025 22:00,system
+INC0057058,3/21/2025 18:27,null,Alex,4 - Low,Closed,Software,1group,Kim,3/24/2025 1:00,system
+INC0057059,3/22/2025 2:12,null,Alex,4 - Low,Closed,Software,1group,Jack,3/24/2025 4:00,system
+INC0057060,3/22/2025 9:56,null,Alex,4 - Low,Closed,Inquiry / Help,1group,Jack,3/24/2025 7:00,system
+INC0057061,3/22/2025 17:41,null,Alex,4 - Low,Closed,Inquiry / Help,1group,Kim,3/24/2025 10:00,system
+INC0057062,3/23/2025 1:25,null,Alex,4 - Low,Closed,Software,1group,Jack,3/24/2025 13:00,system
+INC0057063,3/23/2025 9:10,null,Alex,4 - Low,Closed,AHP (sponsor),1group,Jack,3/24/2025 16:00,system
+INC0057064,3/23/2025 16:54,null,Alex,4 - Low,Closed,Software,1group,Kim,3/24/2025 19:00,system
+INC0057065,3/24/2025 0:39,null,Alex,4 - Low,Closed,Software,1group,Jack,3/24/2025 22:00,system
+INC0057089,3/17/2025 14:11,null,Alex,4 - Low,Closed,Software,1group,Jack,3/22/2025 15:00,system
+INC0057090,3/17/2025 14:17,null,Alex,3 - Moderate,Closed,AHP (sponsor),1group,Kim,3/22/2025 15:00,system
+INC0057091,3/17/2025 14:18,null,Alex,3 - Moderate,Closed,Software,1group,Jack,3/22/2025 15:00,system
+INC0057094,3/17/2025 14:56,null,Alex,4 - Low,Closed,Software,1group,Jack,3/22/2025 17:00,system
+INC0057095,3/17/2025 14:59,null,Alex,3 - Moderate,Closed,Inquiry / Help,1group,Kim,3/22/2025 16:00,system
+INC0057097,3/17/2025 15:41,null,Alex,4 - Low,Closed,Inquiry / Help,1group,Jack,3/22/2025 16:00,system
+INC0057100,3/17/2025 15:56,null,Alex,4 - Low,Closed,Software,1group,Jack,3/23/2025 8:00,system
+INC0057101,3/17/2025 16:03,null,Alex,3 - Moderate,Closed,Inquiry / Help,1group,Kim,3/22/2025 17:00,system
+INC0057107,3/18/2025 6:23,null,Alex,3 - Moderate,Closed,Inquiry / Help,1group,Jack,3/23/2025 7:00,system
+INC0057110,3/18/2025 8:04,null,Alex,4 - Low,Closed,Hardware,1group,Jack,3/23/2025 9:00,system
+INC0057111,3/18/2025 8:24,null,Alex,4 - Low,Closed,Inquiry / Help,1group,Kim,3/23/2025 9:00,system
+INC0057112,3/18/2025 8:46,null,Alex,3 - Moderate,Closed,Software,1group,Jack,3/23/2025 9:00,system
+INC0057115,3/18/2025 9:11,null,Alex,4 - Low,Closed,Software,1group,Jack,3/23/2025 15:00,system
+INC0057116,3/18/2025 9:22,null,Alex,3 - Moderate,Closed,Software,1group,Kim,3/23/2025 10:00,system
+INC0057117,3/18/2025 9:32,null,Alex,4 - Low,Closed,Software,1group,Jack,3/23/2025 10:00,system
+INC0057119,3/18/2025 10:33,null,Alex,4 - Low,Closed,Software,1group,Jack,3/23/2025 11:00,system
+INC0057121,3/18/2025 10:55,null,Alex,4 - Low,Closed,Hardware,1group,Kim,3/23/2025 12:00,system
+INC0057124,3/18/2025 11:06,null,Alex,3 - Moderate,Closed,Inquiry / Help,1group,Jack,3/23/2025 12:00,system
+INC0057125,3/18/2025 11:23,null,Alex,4 - Low,Closed,Software,1group,Jack,3/23/2025 12:00,system
+INC0057128,3/18/2025 13:40,null,Alex,4 - Low,Closed,Software,1group,Kim,3/23/2025 14:00,system
+INC0057129,3/18/2025 13:59,null,Alex,4 - Low,Closed,Software,1group,Jack,3/23/2025 15:00,system
+INC0057131,3/18/2025 14:20,null,Alex,4 - Low,Closed,Network,1group,Jack,3/23/2025 15:00,system
+INC0057132,3/18/2025 15:21,null,Alex,3 - Moderate,Closed,AHP (sponsor),1group,Kim,3/23/2025 16:00,system
+INC0057134,3/18/2025 18:24,null,Alex,4 - Low,Closed,Software,1group,Jack,3/23/2025 19:00,system
+INC0057137,3/19/2025 8:26,null,Alex,4 - Low,Closed,Inquiry / Help,1group,Jack,3/24/2025 9:00,system
+INC0057138,3/19/2025 8:29,null,Alex,4 - Low,Closed,Software,1group,Kim,3/24/2025 11:00,system
+INC0057139,3/19/2025 9:14,null,Alex,4 - Low,Closed,Inquiry / Help,1group,Jack,3/24/2025 10:00,system
+INC0057140,3/19/2025 9:21,null,Alex,4 - Low,Closed,Software,1group,Jack,3/24/2025 10:00,system
+INC0057141,3/19/2025 9:39,null,Alex,4 - Low,Resolved,Inquiry / Help,1group,Kim,3/20/2025 13:43,system
+INC0057146,3/19/2025 11:34,null,Alex,4 - Low,Closed,Software,1group,Jack,3/24/2025 13:00,system
+INC0057147,3/19/2025 11:35,null,Alex,3 - Moderate,Closed,AHP (sponsor),1group,Jack,3/24/2025 12:00,system
+INC0057148,3/19/2025 12:42,null,Alex,4 - Low,Closed,Software,1group,Kim,3/24/2025 14:00,system
+INC0057150,3/19/2025 13:36,null,Alex,4 - Low,Closed,Inquiry / Help,1group,Jack,3/24/2025 14:00,system
+INC0057153,3/19/2025 14:23,null,Alex,3 - Moderate,Resolved,AHP (sponsor),1group,Jack,3/19/2025 14:32,system
+INC0057154,3/19/2025 14:31,null,Alex,3 - Moderate,Resolved,AHP (sponsor),1group,Kim,3/19/2025 14:34,system
+INC0057155,3/19/2025 15:07,null,Alex,4 - Low,Resolved,Software,1group,Jack,3/19/2025 15:20,system
+INC0057156,3/19/2025 15:23,null,Alex,4 - Low,Resolved,Inquiry / Help,1group,Jack,3/19/2025 15:24,system
+INC0057158,3/19/2025 15:55,null,Alex,3 - Moderate,Resolved,AHP (sponsor),1group,Kim,3/19/2025 15:56,system
+INC0057159,3/19/2025 16:07,null,Alex,3 - Moderate,Resolved,Software,1group,Jack,3/19/2025 16:10,system
+INC0057160,3/19/2025 16:20,null,Alex,4 - Low,Resolved,Software,1group,Jack,3/20/2025 8:16,system
+INC0057161,3/19/2025 17:04,null,Alex,4 - Low,Resolved,Software,1group,Kim,3/20/2025 5:48,system
+INC0057187,3/20/2025 8:20,null,Alex,4 - Low,Resolved,Software,1group,Jack,3/20/2025 8:33,system
+INC0057188,3/20/2025 8:46,null,Alex,4 - Low,Resolved,Software,1group,Jack,3/20/2025 9:38,system
+INC0057189,3/20/2025 9:08,null,Alex,3 - Moderate,Resolved,Software,1group,Kim,3/21/2025 15:10,system
+INC0057192,3/20/2025 9:58,null,Alex,4 - Low,Resolved,Software,1group,Jack,3/20/2025 11:57,system
+INC0057199,3/20/2025 11:51,null,Alex,4 - Low,Resolved,Inquiry / Help,1group,Jack,3/20/2025 12:31,system
+INC0057200,3/20/2025 12:05,null,Alex,3 - Moderate,Resolved,AHP (sponsor),1group,Kim,3/20/2025 12:26,system
+INC0057201,3/20/2025 12:38,null,Alex,3 - Moderate,Resolved,Inquiry / Help,1group,Jack,3/20/2025 12:39,system
+INC0057202,3/20/2025 12:44,null,Alex,4 - Low,Resolved,Network,1group,Jack,3/20/2025 14:45,system
+INC0057204,3/20/2025 12:58,null,Alex,4 - Low,Resolved,Software,1group,Kim,3/20/2025 13:01,system
+INC0057205,3/20/2025 13:02,null,Alex,4 - Low,Resolved,Software,1group,Jack,3/20/2025 13:04,system
+INC0057208,3/20/2025 13:58,null,Alex,3 - Moderate,Resolved,Software,1group,Jack,3/20/2025 14:57,system
+INC0057212,3/20/2025 15:38,null,Alex,3 - Moderate,Resolved,Inquiry / Help,1group,Kim,3/20/2025 15:39,system
+INC0057215,3/20/2025 16:00,null,Alex,4 - Low,Resolved,Hardware,1group,Jack,3/20/2025 16:01,system
+INC0057216,3/20/2025 16:09,null,Alex,4 - Low,In Progress,Software,1group,Jack,3/20/2025 16:20,system
+INC0057217,3/21/2025 7:31,null,Alex,4 - Low,Resolved,Inquiry / Help,1group,Kim,3/21/2025 7:34,system
+INC0057219,3/21/2025 7:42,null,Alex,3 - Moderate,Resolved,Software,1group,Jack,3/21/2025 8:23,system
+INC0057220,3/21/2025 7:53,null,Alex,4 - Low,Resolved,Software,1group,Jack,3/21/2025 8:10,system
+INC0057224,3/21/2025 9:59,null,Alex,3 - Moderate,Resolved,Software,1group,Kim,3/21/2025 10:00,system
+INC0057225,3/21/2025 10:01,null,Alex,4 - Low,Resolved,Software,1group,Jack,3/21/2025 10:01,system
+INC0057226,3/21/2025 10:01,null,Alex,4 - Low,Resolved,Inquiry / Help,1group,Jack,3/21/2025 10:04,system
+INC0057228,3/21/2025 10:22,null,Alex,4 - Low,Resolved,Software,1group,Kim,3/21/2025 10:36,system
+INC0057230,3/21/2025 11:00,null,Alex,4 - Low,Resolved,Inquiry / Help,1group,Jack,3/21/2025 11:02,system
+INC0057231,3/21/2025 11:44,null,Alex,3 - Moderate,Resolved,Software,1group,Jack,3/21/2025 11:57,system
+INC0057235,3/21/2025 12:44,null,Alex,3 - Moderate,In Progress,Software,1group,Kim,3/21/2025 13:35,system
+INC0057236,3/21/2025 13:09,null,Alex,4 - Low,Resolved,Software,1group,Jack,3/21/2025 15:12,system
+INC0057237,3/21/2025 13:20,null,Alex,4 - Low,In Progress,eAdvantage (member),1group,Jack,3/24/2025 6:48,system
+INC0057238,3/21/2025 13:32,null,Alex,4 - Low,Resolved,Software,1group,Kim,3/21/2025 14:25,system
+INC0057239,3/21/2025 13:32,null,Alex,4 - Low,Resolved,Software,1group,Jack,3/21/2025 13:48,system
+INC0057242,3/21/2025 14:50,null,Alex,3 - Moderate,Resolved,Software,1group,Jack,3/21/2025 14:51,system
+INC0057244,3/21/2025 15:06,null,Alex,3 - Moderate,In Progress,Software,1group,Kim,3/24/2025 8:07,system
+INC0057245,3/21/2025 15:51,null,Alex,4 - Low,Resolved,Hardware,1group,Jack,3/21/2025 16:06,system
+INC0057247,3/22/2025 8:33,null,Alex,3 - Moderate,Resolved,Software,1group,Jack,3/22/2025 8:37,system
+INC0057252,3/23/2025 19:54,null,Alex,4 - Low,On Hold,Hardware,1group,Kim,3/24/2025 13:19,system
+INC0057088,3/17/2025 14:09,null,Alex,2 - High,Resolved,Software,1group,Jack,3/19/2025 9:36,system
