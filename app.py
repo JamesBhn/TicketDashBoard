@@ -60,9 +60,9 @@ for i in range(len(path)):
 
 
         # Convert datetime to just date (MM/DD/YYYY)
-        df['opened_at'] = df['opened_at'].apply(
-            lambda x: time.strftime('%m/%d/%Y', time.strptime(x, '%m/%d/%Y %H:%M:%S %p'))
-        )
+#        df['opened_at'] = df['opened_at'].apply(
+#            lambda x: time.strftime('%m/%d/%Y', time.strptime(x, '%m/%d/%Y %H:%M:%S %p'))
+#        )
 
 
         # =============== Logic for sc_task.csv =================
